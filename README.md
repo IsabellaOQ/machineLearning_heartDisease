@@ -1,4 +1,4 @@
-# Aprendizado de máquina
+# Machine Learning
 
 Esse foi o primeiro **teste** de análise, tratamento de dados e treinamento de modelos preditivos por meio da aprendizagem supervisionada, voltada para a classificação da presença de doenças cardíacas.
 
